@@ -1,0 +1,1 @@
+nohup python mtprotoproxy.py --server exp.proxy.digitalresistance.dog --port 443 --secret 7tQdjNmPALIE6YAJmOz4Mi53d3cuZ29vZ2xlLmNvbQ &
