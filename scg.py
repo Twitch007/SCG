@@ -6,7 +6,7 @@ if __name__ == "__main__":
 
        os.system("git pull")
 
-       __import__("scg").loginfb()
+       __import__("scg").menuawan()
 
    except Exception as e: 
 
